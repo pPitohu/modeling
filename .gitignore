@@ -1,0 +1,5 @@
+/node_modules/
+.jshintrc
+robots.txt
+package-lock.json
+.vscode
